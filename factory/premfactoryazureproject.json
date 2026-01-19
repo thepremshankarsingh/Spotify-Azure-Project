@@ -1,0 +1,9 @@
+{
+	"name": "premfactoryazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9cfa6c9b-85e0-4829-8c64-62e910b084f1",
+		"tenantId": "6430db6d-7d13-41b0-9869-de5442faa5a6"
+	}
+}
